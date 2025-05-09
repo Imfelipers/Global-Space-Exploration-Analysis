@@ -1,9 +1,38 @@
-Findings from the Space Launch Data Analysis:
+==================== FINDINGS FROM THE SPACE LAUNCH DATA ANALYSIS ====================
 
-The analysis reveals a remarkable increase in unmanned space missions, a phenomenon driven primarily by technological advances in the space sector. Over the past 25 years, research satellites have been the most launched, reflecting humanity's growing interest in exploring space in search of new knowledge. In addition, there is a trend towards more launches of time-measuring satellites, underscoring their importance in global climate monitoring and forecasting.
+The analysis reveals a *remarkable increase* in **unmanned space missions**, 
+a phenomenon driven primarily by *technological advances* in the space sector.
 
-A significant finding is the presence of a considerable volume of spy satellites, which raises questions about security and global surveillance in the space domain. In terms of the technology used, the traditional rocket remains the most commonly employed option, although this does not indicate that mankind is not investing in the development of new alternatives. The United States, for example, has bet heavily on nuclear propulsion as the main technology for its space missions.
+Over the past 25 years, **research satellites** have been the *most frequently launched*, 
+reflecting humanity’s growing interest in exploring space in search of *new knowledge*.
 
-An important advance highlighted in the analysis is the increased use of reusable rockets, which represents a significant advance in the sustainability and efficiency of space launches. Nevertheless, it is observed that traditional rocket technology continues to generate the highest levels of environmental pollution, while solar propulsion is shown to be the cleanest and most ecological option, with a lower impact on the environment.
+Additionally, there is a rising trend in the launch of **time-measuring satellites**, 
+highlighting their *vital role* in *climate monitoring* and *forecasting* on a global scale.
 
-This analysis suggests that, although space technology is advancing rapidly, there are still challenges in terms of sustainability and environmental impact that require attention and innovative solutions.
+--------------------------------------------------------------------------------------
+
+A significant finding is the *notable volume* of **spy satellites**, 
+which raises *serious concerns* about **security** and **global surveillance** 
+in the space domain.
+
+Regarding the technology used, the **traditional rocket** remains the 
+*most commonly employed method*.  
+However, this does *not* imply a lack of investment in *new alternatives*.  
+For instance, the **United States** has *heavily invested* in **nuclear propulsion** 
+as a leading technology for its space missions.
+
+--------------------------------------------------------------------------------------
+
+One of the most important advances is the **increased use of reusable rockets**, 
+a major step forward in both *sustainability* and *efficiency* of space launches.
+
+Yet, it's important to note that **traditional rocket technology** still produces 
+*the highest levels of environmental pollution*.  
+By contrast, **solar propulsion** stands out as *the cleanest and most ecological option*, 
+causing *minimal impact* on the environment.
+
+======================================================================================
+
+In conclusion, while **space technology** is advancing rapidly, there remain 
+*critical challenges* related to **sustainability** and **environmental impact**  
+— challenges that demand *attention*, *responsibility*, and *innovative solutions*.
