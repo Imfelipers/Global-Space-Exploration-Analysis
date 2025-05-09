@@ -1,0 +1,9 @@
+Findings from the Space Launch Data Analysis:
+
+The analysis reveals a remarkable increase in unmanned space missions, a phenomenon driven primarily by technological advances in the space sector. Over the past 25 years, research satellites have been the most launched, reflecting humanity's growing interest in exploring space in search of new knowledge. In addition, there is a trend towards more launches of time-measuring satellites, underscoring their importance in global climate monitoring and forecasting.
+
+A significant finding is the presence of a considerable volume of spy satellites, which raises questions about security and global surveillance in the space domain. In terms of the technology used, the traditional rocket remains the most commonly employed option, although this does not indicate that mankind is not investing in the development of new alternatives. The United States, for example, has bet heavily on nuclear propulsion as the main technology for its space missions.
+
+An important advance highlighted in the analysis is the increased use of reusable rockets, which represents a significant advance in the sustainability and efficiency of space launches. Nevertheless, it is observed that traditional rocket technology continues to generate the highest levels of environmental pollution, while solar propulsion is shown to be the cleanest and most ecological option, with a lower impact on the environment.
+
+This analysis suggests that, although space technology is advancing rapidly, there are still challenges in terms of sustainability and environmental impact that require attention and innovative solutions.
